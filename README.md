@@ -12,4 +12,4 @@ Checkout this repo, install dependencies, then start the gulp process with the f
 > npm install
 > npm start
 ```
-
+Open up a browser and head over to http://localhost:8080/ 
